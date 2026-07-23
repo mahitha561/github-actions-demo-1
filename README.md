@@ -1,3 +1,3 @@
-## Feature Branch Update
+## Second Update
 
-This update was added from the feature-update branch for the GitHub assignment.
+This line was added after syncing the feature-update branch.
