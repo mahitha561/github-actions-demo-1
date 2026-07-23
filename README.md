@@ -1,3 +1,3 @@
 ## Feature Branch Update
 
-This change was made in the feature-update branch.
+This update was added from the feature-update branch for the GitHub assignment.
